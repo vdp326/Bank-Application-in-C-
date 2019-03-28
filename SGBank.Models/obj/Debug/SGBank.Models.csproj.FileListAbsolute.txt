@@ -1,0 +1,6 @@
+C:\Users\vupha\Desktop\Software Guild\SGBank.UI\SGBank.Models\bin\Debug\SGBank.Models.dll
+C:\Users\vupha\Desktop\Software Guild\SGBank.UI\SGBank.Models\bin\Debug\SGBank.Models.pdb
+C:\Users\vupha\Desktop\Software Guild\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.csprojAssemblyReference.cache
+C:\Users\vupha\Desktop\Software Guild\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.csproj.CoreCompileInputs.cache
+C:\Users\vupha\Desktop\Software Guild\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.dll
+C:\Users\vupha\Desktop\Software Guild\SGBank.UI\SGBank.Models\obj\Debug\SGBank.Models.pdb

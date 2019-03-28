@@ -1,0 +1,11 @@
+C:\Users\vupha\Desktop\Software Guild\SGBank.UI\SGBank.BLL\bin\Debug\SGBank.BLL.dll
+C:\Users\vupha\Desktop\Software Guild\SGBank.UI\SGBank.BLL\bin\Debug\SGBank.BLL.pdb
+C:\Users\vupha\Desktop\Software Guild\SGBank.UI\SGBank.BLL\bin\Debug\SGBank.Data.dll
+C:\Users\vupha\Desktop\Software Guild\SGBank.UI\SGBank.BLL\bin\Debug\SGBank.Models.dll
+C:\Users\vupha\Desktop\Software Guild\SGBank.UI\SGBank.BLL\bin\Debug\SGBank.Data.pdb
+C:\Users\vupha\Desktop\Software Guild\SGBank.UI\SGBank.BLL\bin\Debug\SGBank.Models.pdb
+C:\Users\vupha\Desktop\Software Guild\SGBank.UI\SGBank.BLL\obj\Debug\SGBank.BLL.csprojAssemblyReference.cache
+C:\Users\vupha\Desktop\Software Guild\SGBank.UI\SGBank.BLL\obj\Debug\SGBank.BLL.csproj.CoreCompileInputs.cache
+C:\Users\vupha\Desktop\Software Guild\SGBank.UI\SGBank.BLL\obj\Debug\SGBank.BLL.csproj.CopyComplete
+C:\Users\vupha\Desktop\Software Guild\SGBank.UI\SGBank.BLL\obj\Debug\SGBank.BLL.dll
+C:\Users\vupha\Desktop\Software Guild\SGBank.UI\SGBank.BLL\obj\Debug\SGBank.BLL.pdb
